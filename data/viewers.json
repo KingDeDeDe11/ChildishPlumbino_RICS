@@ -1,0 +1,68 @@
+{
+  "total": 7,
+  "viewers": [
+    {
+      "username": "childishplumbino",
+      "karma": 100,
+      "coins": 11575,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "604896653"
+      }
+    },
+    {
+      "username": "mile2mile",
+      "karma": 289,
+      "coins": 25345,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "1077602171"
+      }
+    },
+    {
+      "username": "kingdedede11",
+      "karma": 326,
+      "coins": 1216,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "40146997"
+      }
+    },
+    {
+      "username": "newone1011",
+      "karma": 100,
+      "coins": 1179,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "642180164"
+      }
+    },
+    {
+      "username": "arionequus",
+      "karma": 204,
+      "coins": 1113,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "39337837"
+      }
+    },
+    {
+      "username": "honorguardian",
+      "karma": 100,
+      "coins": 800,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "62911736"
+      }
+    },
+    {
+      "username": "notonlymagicman",
+      "karma": 100,
+      "coins": 940,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "204446056"
+      }
+    }
+  ]
+}
